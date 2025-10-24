@@ -1,6 +1,6 @@
 # Snipermail (msmtp + Gmail)
 
-Snipermail is a **send-only mail relay setup wizard** for Linux and macOS. It uses [`msmtp`](https://marlam.de/msmtp/) under the hood to let your self-hosted apps send notification emails via Gmail with minimal setup.
+Snipermail is a **send-only mail relay setup wizard** for Linux and macOS. It uses [`msmtp`](https://marlam.de/msmtp/) under the hood to let your self-hosted apps send notification emails via Gmail with minimal setup. WARNING: Made with chatgpt. Use at your own risk. 
 
 ---
 
