@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-notify_mail_setup.py
+snipermail.py
 
 A minimal TUI/CLI to set up a send-only mail relay on Linux/macOS using msmtp
 and your Gmail account (via App Password). It will:
